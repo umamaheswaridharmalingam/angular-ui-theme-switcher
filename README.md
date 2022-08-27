@@ -1,3 +1,4 @@
+[![npm version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=js&r=r&type=6e&v=8.11.1&x2=0)](https://www.npmjs.com/package/@angular/cdk)
 <h1 align="center"><a href="http://themeswitcher.umamaheswarid.com/" target="_blank">Theme Switcher</a></h1>
 <p align="center">
   <img src="src/assets/images/ud-logo.png" alt="Uma Website Logo" width="120px" height="120px"/>
